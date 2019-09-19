@@ -3,7 +3,7 @@
 *19/9-xx/yy/19 : Completed to §xLy ("xxx"). ("x of y items complete")*
 
 
-### §1 Introduction
+### §1 Introduction...[DONE]
 
 * [01](https://www.udemy.com/tableau-2018-advanced/learn/lecture/11157778) Welcome to the Tableau Advanced course
 * ~[02](https://www.udemy.com/tableau-2018-advanced/learn/lecture/14750398) BONUS: Learning Paths~
@@ -12,9 +12,9 @@
 
 ### §2 Groups and Sets ...[*Done previously in 'Tableau9Advanced' course*]
 
-* [04]() Section Intro
-* ~[05]() Updates on Udemy Reviews~
-* [06]() Project Brief: 1000 Startups
+* [04](https://www.udemy.com/tableau-2018-advanced/learn/lecture/11157784) Section Intro
+* ~[05](https://www.udemy.com/tableau-2018-advanced/learn/lecture/12498322) Updates on Udemy Reviews~
+* [06](https://www.udemy.com/tableau-2018-advanced/learn/lecture/11157788) Project Brief: 1000 Startups
 * [07]() Working with Groups
 * [08]() Creating Static Set
 * [09]() Creating Dynamic Set
@@ -36,11 +36,25 @@
 
 ### §6 Level of Detail Calculations (LOD)
 
+* [50]() Project Brief: Regional Profit Analysis
+* [51]() Preparing the workbook
+* [52]() Aggregation and Granularity (refresher)
+* [53]() LOD Calculations Intuition
+* [54]() LOD Type 1: INCLUDE
+* [55]() Understanding ATTR() in Tableau
+* [56]() LOD Type 2: EXCLUDE (Pt1)
+* [57]() LOD Type 2: EXCLUDE (Pt2)
+* [58]() Multiple fields in an LOD Coalculation
+* [59]() LOD Type 3: FIXED
+* [60]() Finalizing the Visualization
+
 
 ### §7 Advanced Mapping Techniques
 
 
 ### §8 Bonus Lectures
+
+* ~[71](https://www.udemy.com/tableau-2018-advanced/learn/lecture/15420306) YOUR SPECIAL BONUS ...~ ...[*Discount code for "Data Science A-Z" course, that I'd already done*]
 
 
 
