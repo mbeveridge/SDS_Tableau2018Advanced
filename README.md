@@ -36,11 +36,11 @@
 
 ### §6 Level of Detail Calculations (LOD)
 
-* [50]() Project Brief: Regional Profit Analysis
-* [51]() Preparing the workbook
+* [50](https://www.udemy.com/tableau-2018-advanced/learn/lecture/11157940) Project Brief: Regional Profit Analysis
+* [51](https://www.udemy.com/tableau-2018-advanced/learn/lecture/11157942) Preparing the workbook
 * [52]() Aggregation and Granularity (refresher)
 * [53]() LOD Calculations Intuition
-* [54]() LOD Type 1: INCLUDE
+* [54]() LOD Type 1: INCLUDE ...[*eg. `{INCLUDE [City] : SUM([Profit])}`*]
 * [55]() Understanding ATTR() in Tableau
 * [56]() LOD Type 2: EXCLUDE (Pt1)
 * [57]() LOD Type 2: EXCLUDE (Pt2)
@@ -54,7 +54,7 @@
 
 ### §8 Bonus Lectures
 
-* ~[71](https://www.udemy.com/tableau-2018-advanced/learn/lecture/15420306) YOUR SPECIAL BONUS ...~ ...[*Discount code for "Data Science A-Z" course, that I'd already done*]
+* ~[71](https://www.udemy.com/tableau-2018-advanced/learn/lecture/15420306) YOUR SPECIAL BONUS~ ...[*Discount code for "[Data Science A-Z](https://www.udemy.com/datascience/)" course, that I'd already done*]
 
 
 
