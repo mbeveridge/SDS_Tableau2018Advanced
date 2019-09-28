@@ -38,10 +38,10 @@
 
 * [50](https://www.udemy.com/tableau-2018-advanced/learn/lecture/11157940) Project Brief: Regional Profit Analysis
 * [51](https://www.udemy.com/tableau-2018-advanced/learn/lecture/11157942) Preparing the workbook
-* [52]() Aggregation and Granularity (refresher)
-* [53]() LOD Calculations Intuition
-* [54]() LOD Type 1: INCLUDE ...[*eg. `{INCLUDE [City] : SUM([Profit])}`*]
-* [55]() Understanding ATTR() in Tableau
+* [52](https://www.udemy.com/course/tableau-2018-advanced/learn/lecture/11157944) Aggregation and Granularity (refresher)
+* [53](https://www.udemy.com/course/tableau-2018-advanced/learn/lecture/11157946) LOD Calculations Intuition
+* [54](https://www.udemy.com/course/tableau-2018-advanced/learn/lecture/11157948) LOD Type 1: INCLUDE ...[*eg. `{INCLUDE [City] : SUM([Profit])}`*]
+* [55](https://www.udemy.com/course/tableau-2018-advanced/learn/lecture/11157950) Understanding ATTR() in Tableau ...[*[Definition](https://help.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields_aggregate_create.htm): "Returns the value of the expression if it has a single value for all rows. Otherwise returns an asterisk"*]
 * [56]() LOD Type 2: EXCLUDE (Pt1)
 * [57]() LOD Type 2: EXCLUDE (Pt2)
 * [58]() Multiple fields in an LOD Coalculation
