@@ -43,7 +43,7 @@
 * [54](https://www.udemy.com/course/tableau-2018-advanced/learn/lecture/11157948) LOD Type 1: INCLUDE ...[*eg. `{INCLUDE [City] : SUM([Profit])}`*]
 * [55](https://www.udemy.com/course/tableau-2018-advanced/learn/lecture/11157950) Understanding ATTR() in Tableau ...[*[Definition](https://help.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields_aggregate_create.htm): "Returns the value of the expression if it has a single value for all rows. Otherwise returns an asterisk"*]
 * [56](https://www.udemy.com/course/tableau-2018-advanced/learn/lecture/11157952) LOD Type 2: EXCLUDE (Pt1) ...[*eg. `{EXCLUDE [City] : SUM(Profit)}`. And `ATTR()`*]
-* [57](https://www.udemy.com/course/tableau-2018-advanced/learn/lecture/11157954) LOD Type 2: EXCLUDE (Pt2)
+* [57](https://www.udemy.com/course/tableau-2018-advanced/learn/lecture/11157954) LOD Type 2: EXCLUDE (Pt2) ...[*eg. `ABS(SUM([Profit])/ATTR([LOD EXCLUDE - State Profit]))`*]
 * [58]() Multiple fields in an LOD Calculation
 * [59]() LOD Type 3: FIXED
 * [60]() Finalizing the Visualization
