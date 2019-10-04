@@ -45,7 +45,7 @@
 * [56](https://www.udemy.com/course/tableau-2018-advanced/learn/lecture/11157952) LOD Type 2: EXCLUDE (Pt1) ...[*eg. `{EXCLUDE [City] : SUM(Profit)}`*] [*And `ATTR()`*]
 * [57](https://www.udemy.com/course/tableau-2018-advanced/learn/lecture/11157954) LOD Type 2: EXCLUDE (Pt2) ...[*eg. `ABS(SUM([Profit])/ATTR([LOD EXCLUDE - State Profit]))`*] [*From Q&A: "When an aggregated measure (eg. `SUM([Profit])`) is placed on a shelf or card in the worksheet, its name is changed to (eg) `AGG(SUM([Profit]))`, which indicates that it is an aggregate calculation and cannot be aggregated any further"*]
 * [58](https://www.udemy.com/course/tableau-2018-advanced/learn/lecture/11157956) Multiple fields in an LOD Calculation ...[*eg. `{EXCLUDE [City], [Postal Code] : SUM([Profit])}`*] [*"If it doesn't find this Dimension, it'll simply ignore this command to `EXCLUDE` that Dimension"*]
-* [59](https://www.udemy.com/course/tableau-2018-advanced/learn/lecture/11157958) LOD Type 3: FIXED ...[*begins with a recap of `INCLUDE`, `EXCLUDE`, `ATTR`*]
+* [59](https://www.udemy.com/course/tableau-2018-advanced/learn/lecture/11157958) LOD Type 3: FIXED ...[*begins with a recap of `INCLUDE`, `EXCLUDE`, `ATTR`*] [`{FIXED [Country], [State], [City] : SUM([Profit])}` ...cf. L54] [`{FIXED [Country], [State] : SUM(Profit)}` ...cf. L56]
 * [60]() Finalizing the Visualization
 
 
