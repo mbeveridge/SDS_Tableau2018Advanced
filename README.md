@@ -49,10 +49,10 @@
 * [60](https://www.udemy.com/course/tableau-2018-advanced/learn/lecture/11157962) Finalizing the Visualization ...[*@1'45 for selection of 'Dual Axis' to combine RHS chart on top of LHS chart*] [**s6 Challenge: [Solution on TableauPublic](https://public.tableau.com/profile/mbeveridge#!/vizhome/SDS_Tableau2018Advanced_s06/Combinedvisualization)**]
 
 
-### §7 Advanced Mapping Techniques
+### §7 Advanced Mapping Techniques [Jean-Pierre Labuschagne]
 
-* [61](https://www.udemy.com/course/tableau-2018-advanced/learn/lecture/11191308) Section intro
-* [62]() Getting into shape with Polygons
+* [61](https://www.udemy.com/course/tableau-2018-advanced/learn/lecture/11191308) Section intro ...[*"We will be focusing on creating ... so everything [in this Section] will be custom made"*]
+* [62](https://www.udemy.com/course/tableau-2018-advanced/learn/lecture/11191314) Getting into shape with Polygons
 * [63]() Background maps
 * [64]() Solving business challenge
 * [65]() Drawing tool for Tableau
