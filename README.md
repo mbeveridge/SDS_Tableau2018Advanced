@@ -51,6 +51,17 @@
 
 ### §7 Advanced Mapping Techniques
 
+* [61](https://www.udemy.com/course/tableau-2018-advanced/learn/lecture/11191308) Section intro
+* [62]() Getting into shape with Polygons
+* [63]() Background maps
+* [64]() Solving business challenge
+* [65]() Drawing tool for Tableau
+* [66]() Custom images on maps
+* [67]() Distance calculations
+* [68]() Customizing maps with Mapbox
+* [69]() Section Recap
+* ~[70](https://www.udemy.com/course/tableau-2018-advanced/learn/lecture/14403768) THANK YOU bonus video~
+
 
 ### §8 Bonus Lectures
 
