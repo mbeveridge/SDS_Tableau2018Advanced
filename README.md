@@ -52,8 +52,8 @@
 ### §7 Advanced Mapping Techniques [Jean-Pierre Labuschagne]
 
 * [61](https://www.udemy.com/course/tableau-2018-advanced/learn/lecture/11191308) Section intro ...[*"We will be focusing on creating ... so everything [in this Section] will be custom made"*]
-* [62](https://www.udemy.com/course/tableau-2018-advanced/learn/lecture/11191314) Getting into shape with Polygons
-* [63]() Background maps
+* [62](https://www.udemy.com/course/tableau-2018-advanced/learn/lecture/11191314) Getting into shape with Polygons ...[*@2'19 "3 things that we require in order to draw polygons in Tableau" :* **Points** *(x&y coords);* **Direction** *(path or order to connect);* **UniqueIdentifier** *(if multiple shapes. ShapeID)*]
+* [63](https://www.udemy.com/course/tableau-2018-advanced/learn/lecture/11191318) Background maps
 * [64]() Solving business challenge
 * [65]() Drawing tool for Tableau
 * [66]() Custom images on maps
